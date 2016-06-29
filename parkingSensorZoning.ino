@@ -1,4 +1,3 @@
-
 int dataPin = 22;
 const int bufferSize = 512;
 int data[bufferSize];
