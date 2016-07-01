@@ -1,6 +1,6 @@
 # ParkingSensor
 Cisbo parking sensor connected via Arduino Due.
-This project is to obtain the data from the Cisbo parking sensor and infer the zone of nearest surrounding object.
+The aim of this project was to hack into a Cisbo parking sensor kit and infer the distance zone reported by the sensors.
 
 https://github.com/rasikangutkar/ParkingSensor/blob/master/kit.jpg
 
